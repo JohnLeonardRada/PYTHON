@@ -1,0 +1,12 @@
+phrase = "Jujutsu Kaisen"
+print(phrase)
+print(phrase + " is cool.")
+print(phrase .lower())
+print(phrase .upper())
+print(phrase .isupper())
+print(phrase .upper().isupper())
+print(len(phrase))
+print(len(phrase))
+print(phrase[0])
+print(phrase.index("J"))
+print(phrase.replace("Jujutsu Kaisen", "Black Clover"))
